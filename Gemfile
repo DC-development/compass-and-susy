@@ -1,0 +1,13 @@
+source 'https://rubygems.org'
+
+gem 'breakpoint', '2.5.0'
+gem 'compass', '1.0.3'
+gem 'compass-core', '1.0.3'
+gem 'compass-import-once', '1.0.5'
+gem 'compass-susy-plugin', '0.9'
+gem 'font-awesome-sass-mixins', '4.3.0'
+gem 'sass', '3.4.13'
+gem 'sass-globbing', '1.1.1'
+gem 'sassy-buttons', '0.2.6'
+gem 'sassy-maps', '0.4.0'
+gem 'susy', '2.2.3'
